@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: fabio-oyXis2kALVg-unsplash.svg
+          filename: low-poly-grid-haikei.svg
           filters:
             brightness: 1.0
           size: cover
