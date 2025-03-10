@@ -35,10 +35,14 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://www.twitter.com/JesseDodge
-  - icon: assets/media/icons/semanticScholar.svg
-    url: https://www.semanticscholar.org/author/Jesse-Dodge/34176020
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=nHy_1doAAAAJ&view_op=list_works&sortby=pubdate
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
