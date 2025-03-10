@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://www.twitter.com/JesseDodge
-  - icon: ''
-    url: ''
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
