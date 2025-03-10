@@ -9,10 +9,6 @@ name_pronunciation: ''
 first_name: Jesse
 last_name: Dodge
 
-# Status emoji
-status:
-  icon: 💫
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -35,14 +31,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://www.twitter.com/JesseDodge
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?hl=en&user=nHy_1doAAAAJ&view_op=list_works&sortby=pubdate
 
 interests:
   - Artificial Intelligence
